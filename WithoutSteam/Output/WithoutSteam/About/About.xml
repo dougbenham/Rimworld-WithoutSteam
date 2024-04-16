@@ -3,8 +3,7 @@
   <name>Without Steam</name>
   <author>scuba156</author>
   <supportedVersions>
-    <li>1.0</li>
-    <li>1.1</li>
+    <li>1.5</li>
   </supportedVersions>
   <packageId>scuba156.withoutsteam</packageId>
 	<modDependencies>
@@ -21,8 +20,6 @@
 		<li>brrainz.harmony</li>
 	</loadAfter>
   <description>
-Removes the warning that Steam is offline that pops up when launching RimWorld without Steam running. 
-
-Version: 1.2
+Removes the warning that Steam is offline that pops up when launching RimWorld without Steam running.
   </description>
 </ModMetaData>
