@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
   <name>Without Steam</name>
-  <author>scuba156</author>
+  <author>Doug</author>
   <supportedVersions>
     <li>1.5</li>
   </supportedVersions>
-  <packageId>scuba156.withoutsteam</packageId>
+  <packageId>doug.withoutsteam</packageId>
 	<modDependencies>
 		<li>
 			<packageId>brrainz.harmony</packageId>
@@ -16,10 +16,11 @@
 	</modDependencies>
 	<loadAfter>
 		<li>Ludeon.RimWorld</li>
-		<li>Ludeon.RimWorld.Royalty</li>
 		<li>brrainz.harmony</li>
 	</loadAfter>
   <description>
-Removes the warning that Steam is offline that pops up when launching RimWorld without Steam running.
+    Continued from https://steamcommunity.com/sharedfiles/filedetails/?id=1878237312
+
+    Removes the warning that Steam is offline that pops up when launching RimWorld without Steam running.
   </description>
 </ModMetaData>
